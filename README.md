@@ -34,23 +34,20 @@ I have completed various projects in data analytics, data science, and natural l
 ![BERT](https://img.shields.io/badge/BERT-%230A0FFF.svg?style=for-the-badge&logo=bert&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Sentiment Analysis](https://img.shields.io/badge/Sentiment%20Analysis-%23F7931E.svg?style=for-the-badge&logo=sentiment-analysis&logoColor=white)
+![Text Classification](https://img.shields.io/badge/Text%20Classification-%23FF6F00.svg?style=for-the-badge&logo=text-classification&logoColor=white)
+![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-%230A0FFF.svg?style=for-the-badge&logo=fine-tuning&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%23EE4C2C.svg?style=for-the-badge&logo=prompt-engineering&logoColor=white)
+
+### 🧠 Large Language Models (LLMs)
+![BERT](https://img.shields.io/badge/BERT-%230A0FFF.svg?style=for-the-badge&logo=bert&logoColor=white)
+![LLAMA](https://img.shields.io/badge/LLAMA-%2300ACD7.svg?style=for-the-badge&logo=llama&logoColor=white)
+![Alpaca](https://img.shields.io/badge/Alpaca-%23FF6F00.svg?style=for-the-badge&logo=alpaca&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-%230A0FFF.svg?style=for-the-badge&logo=chatgpt&logoColor=white)
+![HuggingFace Transformers](https://img.shields.io/badge/HuggingFace%20Transformers-%23FF4500.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 
 ### 📚 Frameworks, Platforms and Libraries
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-
-### 🧠 Large Language Models (LLMs)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FF6F00.svg?style=for-the-badge&logo=HuggingFace&logoColor=white)
-![GPT-3](https://img.shields.io/badge/GPT--3-000000?style=for-the-badge&logo=openai&logoColor=white)
-![BERT](https://img.shields.io/badge/BERT-%230A0FFF.svg?style=for-the-badge&logo=bert&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-%2300ACD7.svg?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
-
-I have hands-on experience working with various Large Language Models (LLMs) including:
-- **LLAMA**
-- **Alpaca**
-- **ChatGPT**
-- **HuggingFace Transformers**
-
-I have developed and deployed tasks using these models, focusing on prompt engineering, fine-tuning, and applying them to NLP tasks like text classification, sentiment analysis, and more.
 
 ### 💻 IDEs/Editors
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -66,10 +63,6 @@ I have developed and deployed tasks using these models, focusing on prompt engin
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/googleanalytics%20-%23E37400?style=for-the-badge&logo=Google-Analytics&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-## 🛠️ Projects I'm Currently Working On
-
-- **[Competitor Price Scraping Project](https://github.com/your-github-repo-link)**: Developing a web scraper to automate competitor price data collection and analysis.
 
 
 ## 🤔 What I'm learning right now
