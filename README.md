@@ -6,7 +6,7 @@ I began my academic journey with a Bachelor's degree in English Language and Lit
 
 I have completed various projects in data analytics, data science, and natural language processing (NLP), gaining proficiency in machine learning, deep learning, and other advanced techniques. I am continuously exploring new challenges and opportunities in the field of AI, and I am excited to contribute to innovative solutions.
 
-<p><a href="https://www.linkedin.com/in/ssaramir/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="height:25px" /></a> <a href="https://github.com/ssaramir/" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" style="height:25px" /></a></p>
+<p><a href="https://www.linkedin.com/in/ssaramir/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="height:25px" /></a> <a href="https://ssaramir.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" style="height:25px" /></a></p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> What I know
 
