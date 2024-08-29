@@ -2,7 +2,7 @@
 
 ## 🐣→💡→🚀 About me
 
-I began my academic journey with a Bachelor's degree in English Language and Literature from Yazd University, where I developed a strong foundation in linguistics and communication. However, my curiosity for technology and problem-solving led me to discover a passion for programming and data science. This passion motivated me to pursue a Master's degree in Data Science with a specialization in Computational Linguistics at the University of British Columbia (UBC) in 2023 ([MDS-CL Program](https://masterdatascience.ubc.ca/why-data-science/student-success-stories/mds-spotlight)).
+I began my academic journey with a Bachelor's degree in English Language and Literature from Yazd University, where I developed a strong foundation in linguistics and communication. However, my curiosity for technology and problem-solving led me to discover a passion for programming and data science. This passion motivated me to pursue a Master's degree in Data Science with a specialization in Computational Linguistics at the University of British Columbia (UBC) in 2023 ([MDS-CL Program](https://masterdatascience.ubc.ca/programs/computational-linguistics)).
 
 I have completed various projects in data analytics, data science, and natural language processing (NLP), gaining proficiency in machine learning, deep learning, and other advanced techniques. I am continuously exploring new challenges and opportunities in the field of AI, and I am excited to contribute to innovative solutions.
 
