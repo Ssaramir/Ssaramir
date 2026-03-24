@@ -1,6 +1,6 @@
 # Hi there, My name is Sara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-## 🐣→💡→🚀 About me
+## About me
 
 I began my academic journey with a Bachelor's degree in English Language and Literature from Yazd University, where I developed a strong foundation in linguistics and communication. However, my curiosity for technology and problem-solving led me to discover a passion for programming and data science. This passion motivated me to pursue a Master's degree in Data Science with a specialization in Computational Linguistics at the University of British Columbia (UBC) in 2023 ([MDS-CL Program](https://masterdatascience.ubc.ca/programs/computational-linguistics)).
 
